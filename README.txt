@@ -19,3 +19,4 @@ If you are using 64 electrodes, the system works as well, just remember that
 'A' electrodes will be from 1 to 32 and 'B' from 33 to 64.
 
 
+Communication with Unity via TCP/IP. VR set up for use with HTC Vive.
