@@ -1,0 +1,2 @@
+clean;
+BCI_GUI;

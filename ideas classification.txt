@@ -1,0 +1,13 @@
+1) try again with reference electrode
+
+2) CSP (lab 5 of BCI) there is an extention for multiple classes, but the easiest way is a dicotomical comparison
+
+3) NeuralNetwork I'll run some tests to see how long it takes to train
+
+4) maybe some patterns should be discarded (eg early samples of each event)
+
+
+
+Mannes
+1) use switch instead of baseline (real or SSVEP)
+2) reduce number of classes
